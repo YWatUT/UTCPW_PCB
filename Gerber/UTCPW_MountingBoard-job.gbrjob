@@ -7,7 +7,7 @@
       "Application": "Pcbnew",
       "Version":     "(5.1.12)-1"
     },
-    "CreationDate":  "2021-12-16T09:04:57-06:00"
+    "CreationDate":  "2021-12-21T12:41:33-06:00"
   },
   "GeneralSpecs":
   {
@@ -50,16 +50,6 @@
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "UTCPW_MountingBoard-F_Paste.gbr",
-      "FileFunction":  "SolderPaste,Top",
-      "FilePolarity":  "Positive"
-    },
-    {
-      "Path":  "UTCPW_MountingBoard-B_Paste.gbr",
-      "FileFunction":  "SolderPaste,Bot",
-      "FilePolarity":  "Positive"
-    },
-    {
       "Path":  "UTCPW_MountingBoard-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
@@ -77,10 +67,6 @@
   ],
   "MaterialStackup":
   [
-    {
-      "Type":  "SolderPaste",
-      "Notes":  "Layer F.Paste"
-    },
     {
       "Type":  "SolderMask",
       "Notes":  "Layer F.Mask"
@@ -101,10 +87,6 @@
     {
       "Type":  "SolderMask",
       "Notes":  "Layer B.Mask"
-    },
-    {
-      "Type":  "SolderPaste",
-      "Notes":  "Layer B.Paste"
     }
   ]
 }
