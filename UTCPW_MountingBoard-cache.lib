@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# UTMIR_Devices_UltrathinT2SLCPW
+#
+DEF UTMIR_Devices_UltrathinT2SLCPW U 0 40 Y Y 1 F N
+F0 "U" 50 350 50 H V C CNN
+F1 "UTMIR_Devices_UltrathinT2SLCPW" 0 -400 50 H V C CNN
+F2 "" 50 350 50 H I C CNN
+F3 "" 50 350 50 H I C CNN
+DRAW
+S -250 300 250 -300 0 1 0 N
+X Device1 1 -350 250 100 R 50 50 1 1 O
+X Device2 2 -350 150 100 R 50 50 1 1 O
+X Device3 3 -350 50 100 R 50 50 1 1 O
+X Device4 4 -350 -50 100 R 50 50 1 1 O
+X GND 5 -350 -250 100 R 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library
